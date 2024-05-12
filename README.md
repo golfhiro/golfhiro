@@ -1,6 +1,12 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=golfhiro&show_icons=true&theme=radical)
+### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golfhiro&layout=compact)](https://github.com/golfhiro/github-readme-stats)
+<p align="center"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=golfhiro&theme=algolia"/>
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golfhiro&layout=compact&theme=algolia" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=golfhiro)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **golfhiro/golfhiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
